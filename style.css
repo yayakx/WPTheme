@@ -1,0 +1,107 @@
+/*
+Theme Name: Grando Indonesia
+Theme URI: https://berkasnovel.online
+Description: Mytheme Built on bootstrap
+Version:1.1
+Author: Auliyaur Rahman
+Author URI: https://berkasnovel.online
+*/
+@media only screen and (max-width: 600px) {
+  body {
+    max-width: 100% !important;
+  }
+
+  .img-carousel {
+    height: auto !important;
+    width: 100% !important;   
+  }
+
+  .logo-why {
+    width:100% !important;
+    height: auto !important;
+  }
+
+  .img-footer {
+    width:100% !important;
+    height: auto !important;
+  }
+
+  #gmap_canvas {
+    height: auto !important;
+    width: 100% !important; 
+  }
+}
+
+ .bg-main {
+  background-color: #333B97;   
+ }
+
+ .color-main {
+  color: #333B97;
+ }
+
+ .nav-link:hover {
+  color:#333B97;
+ }
+
+ .menu {
+  color:gray;
+ }
+
+ .menu:hover {
+  color: #333B97;
+ }
+
+
+ .img-carousel {
+    height: 400px !important;
+    max-height: 400px !important;
+    object-fit: cover !important;    
+  }
+
+  .img-logo {
+    height: 75px !important;
+    max-height: 75px !important;
+    object-fit: cover !important;
+  }
+
+  .logo-why {
+    width:25%;
+    height: auto;
+  }
+
+  .img-footer {
+    width:200%;
+    height: auto;
+  }
+
+  .no-rounded {
+    border-radius: 0 !important;
+  }
+
+  .no-bg {
+    background-color:transparent;
+  }
+
+  a a:hover, a:visited, a:link, a:active
+  {
+      text-decoration: none;
+  }
+
+  .product:hover {
+    box-shadow: 0 0 11px #333B97; 
+  }
+
+  .share {    
+    bottom: 0;
+    width: 100%;
+  }
+
+  body {
+    font-family: "Sofia", sans-serif;
+  }
+
+  #gmap_canvas {
+    width: 600px;
+    height: 500px;
+  }
